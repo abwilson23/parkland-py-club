@@ -1,0 +1,9 @@
+Welcome to vim, one of the most powerful text editor's in the world!
+
+The first thing you should learn about vim is that it has two different modes: Insert and Edit.
+
+By hitting the ESC key you can enter edit mode where you have access to a large number of useful and powerful commands that are accessed using
+certain hotkeys.
+
+The two most important commands for you at the moment are the 'i' key which stands for Insert and the 'u' key which stands for Undo.
+
